@@ -1,4 +1,4 @@
-package Basic_question;
+package Basic_question_of_array;
 
 public class infinite_loop {
     public static void main(String[] args) {

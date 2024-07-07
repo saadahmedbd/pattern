@@ -1,4 +1,4 @@
-package Basic_question;
+package Basic_question_of_array;
 
 public class sumOfAllOdd {
     public static void sumOddNumber(int n){

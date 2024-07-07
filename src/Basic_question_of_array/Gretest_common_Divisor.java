@@ -1,7 +1,4 @@
-package Basic_question;
-
-import java.util.ArrayList;
-import java.util.Collection;
+package Basic_question_of_array;
 
 public class Gretest_common_Divisor {
     public static void GCD(int n1, int n2){

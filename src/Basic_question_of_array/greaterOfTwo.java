@@ -1,4 +1,4 @@
-package Basic_question;
+package Basic_question_of_array;
 
 public class greaterOfTwo {
     public static void greater(int n1, int n2){
